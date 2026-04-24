@@ -1,57 +1,66 @@
-# 👋 Hi, I'm Abhishek Kumar
+# 👋 Hi, I'm Abhishek Kumar  
 
-🚀 Full Stack Developer | SaaS Builder | IoT Developer | App Creator  
-
-I build real-world, production-ready applications across web, SaaS, IoT, and mobile platforms.
+🚀 Building Real-World SaaS, IoT & Developer Tools  
+💡 Turning Ideas into Scalable Products Used by Real Users  
 
 ---
 
 ## 🌟 About Me
 
-- 🔭 Building scalable SaaS systems & CRM platforms  
-- ⚡ Developing ESP32 IoT solutions (MQTT, OTA, Audio APIs)  
-- 📱 Creating mobile apps & Chrome extensions used by real users  
-- 🧠 Focused on solving real-world problems with practical tech  
+- 🚀 I build production-ready SaaS and CRM systems used in real-world scenarios  
+- 🔌 Developing IoT platforms using ESP32 (MQTT, OTA, Audio APIs)  
+- 📱 Creator of apps, Chrome extensions & developer tools used by 1000+ users  
+- 🧠 Focused on performance, scalability, and solving real problems  
 
 ---
 
 ## 🚀 Live Products & Projects
 
 ### 🌐 Web Platforms
-- https://www.mydaystory.in/  
-- https://www.championsbooks.shop/  
-- https://www.meerakart.com/  
+- 🔗 https://www.mydaystory.in/ → Story-based digital experience platform  
+- 🔗 https://www.championsbooks.shop/ → Online book store system  
+- 🔗 https://www.meerakart.com/ → E-commerce platform  
 
 ### 📱 Mobile App
-- ChampionsBooks App (Available on Play Store)  
+- 📲 ChampionsBooks App (Play Store)  
   https://play.google.com/store/apps/details?id=com.championsbooks.app  
 
 ### 🔐 Chrome Extension
-- Chrome Profile Lock (1,000+ users)  
-  → Adds PIN-based security to Chrome profiles  
+- 🔒 Chrome Profile Lock (1,000+ users)  
+  → Secure Chrome profiles with PIN protection  
 
 ### 🧩 Developer Tools
-- Multi Folder Workspace Opener (VS Code Extension – 400+ downloads)  
+- ⚡ Multi Folder Workspace Opener (VS Code Extension – 400+ downloads)  
   → Open multiple folders in one workspace instantly  
+
+---
+
+## 🧠 What I Build
+
+- SaaS Platforms (Multi-tenant systems, CRM, dashboards)  
+- Developer Tools (VS Code extensions, automation tools)  
+- Chrome Extensions (Security & productivity tools)  
+- IoT Systems (ESP32, MQTT, OTA, real-time control)  
+- Full-stack Web Applications (Scalable & production-ready)  
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Backend
-- PHP, MySQL, REST APIs  
+PHP • MySQL • REST APIs  
 
 ### 🌐 Frontend
-- HTML, CSS, JavaScript, TypeScript  
+HTML • CSS • JavaScript • TypeScript  
 
 ### 📱 App Development
-- Android (Java/Kotlin), WebView Apps  
+Android (Java/Kotlin) • WebView Apps  
 
 ### 🔌 IoT & Hardware
-- ESP32, MQTT, OTA Updates, Audio Systems  
+ESP32 • MQTT • OTA Updates • Audio Systems  
 
 ### ⚙️ Tools & Platforms
-- GitHub, VS Code, Chrome Extensions, Open VSX  
+GitHub • VS Code • Chrome Extensions • Open VSX  
 
 ---
 
@@ -80,7 +89,7 @@ I build real-world, production-ready applications across web, SaaS, IoT, and mob
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=websitedesigningstore&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=websitedesigningstore&show_icons=true&theme=tokyonight&count_private=true)
 
 ---
 
@@ -100,8 +109,8 @@ I build real-world, production-ready applications across web, SaaS, IoT, and mob
 ## ⭐ Support My Work
 
 If you find my work useful, consider giving a ⭐ to my repositories.  
-Your support helps me build more useful tools.
+Your support helps me build more powerful tools.
 
 ---
 
-🔥 *Building scalable systems that solve real-world problems.*
+🔥 Building scalable systems that solve real-world problems.
