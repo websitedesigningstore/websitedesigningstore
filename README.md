@@ -1,25 +1,38 @@
 # 👋 Hi, I'm Abhishek Kumar
 
-🚀 Full Stack Developer | SaaS Builder | IoT Developer  
+🚀 Full Stack Developer | SaaS Builder | IoT Developer | App Creator  
 
-I build real-world, production-ready systems across web, SaaS, IoT, and developer tools.
+I build real-world, production-ready applications across web, SaaS, IoT, and mobile platforms.
 
 ---
 
 ## 🌟 About Me
 
-- 🔭 Currently building scalable SaaS & CRM systems  
-- ⚡ Working on ESP32 IoT platforms (MQTT, OTA, Audio, APIs)  
-- 🧠 Focused on practical solutions, not just demos  
-- 🌱 Continuously improving system architecture & performance  
+- 🔭 Building scalable SaaS systems & CRM platforms  
+- ⚡ Developing ESP32 IoT solutions (MQTT, OTA, Audio APIs)  
+- 📱 Creating mobile apps & Chrome extensions used by real users  
+- 🧠 Focused on solving real-world problems with practical tech  
 
 ---
 
-## 🚀 Live Projects
+## 🚀 Live Products & Projects
 
-- 🌐 https://www.mydaystory.in/  
-- 🔐 Chrome Extension: Profile Lock (1K+ Users)  
-- 🧩 VS Code Extension: Multi Folder Workspace Opener (400+ downloads)  
+### 🌐 Web Platforms
+- https://www.mydaystory.in/  
+- https://www.championsbooks.shop/  
+- https://www.meerakart.com/  
+
+### 📱 Mobile App
+- ChampionsBooks App (Available on Play Store)  
+  https://play.google.com/store/apps/details?id=com.championsbooks.app  
+
+### 🔐 Chrome Extension
+- Chrome Profile Lock (1,000+ users)  
+  → Adds PIN-based security to Chrome profiles  
+
+### 🧩 Developer Tools
+- Multi Folder Workspace Opener (VS Code Extension – 400+ downloads)  
+  → Open multiple folders in one workspace instantly  
 
 ---
 
@@ -31,45 +44,49 @@ I build real-world, production-ready systems across web, SaaS, IoT, and develope
 ### 🌐 Frontend
 - HTML, CSS, JavaScript, TypeScript  
 
-### ⚙️ Tools & Platforms
-- GitHub, VS Code, Chrome Extensions, Open VSX  
+### 📱 App Development
+- Android (Java/Kotlin), WebView Apps  
 
 ### 🔌 IoT & Hardware
 - ESP32, MQTT, OTA Updates, Audio Systems  
+
+### ⚙️ Tools & Platforms
+- GitHub, VS Code, Chrome Extensions, Open VSX  
 
 ---
 
 ## 📦 Featured Projects
 
 ### 🔹 LeadSync Pro CRM
-- Complete lead management system  
-- Automation, reporting, and client handling  
-- Modular SaaS architecture  
+- Full-featured lead management system  
+- Automation, reporting, and client tracking  
+- Built with scalable SaaS architecture  
+
+### 🔹 Chrome Profile Lock
+- 1,000+ active users  
+- Secure Chrome profile with PIN lock  
+- Lightweight and fast extension  
 
 ### 🔹 Multi Folder Workspace Opener
 - VS Code extension  
-- Open multiple folders instantly in one workspace  
-- Improves developer workflow  
+- Boosts developer productivity  
+- Simplifies multi-project workflow  
 
-### 🔹 Chrome Profile Lock
-- Chrome extension with 1,000+ users  
-- Adds PIN-based security to Chrome profiles  
-
-### 🔹 Cube (3D Project)
+### 🔹 Cube (3D Web App)
 - Web-based voxel builder  
-- Hand tracking & WebXR support  
+- Supports WebXR & interaction controls  
 
 ---
 
 ## 📊 GitHub Stats
 
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=websitedesigningstore&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=websitedesigningstore&show_icons=true&theme=tokyonight)
 
 ---
 
-## 🔥 Contribution Graph
+## 🔥 Contribution Activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=websitedesigningstore&theme=react-dark)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=websitedesigningstore&theme=react-dark)
 
 ---
 
@@ -82,9 +99,9 @@ I build real-world, production-ready systems across web, SaaS, IoT, and develope
 
 ## ⭐ Support My Work
 
-If you find my work useful, please consider giving a ⭐ to my repositories.  
-It motivates me to build more useful tools and systems.
+If you find my work useful, consider giving a ⭐ to my repositories.  
+Your support helps me build more useful tools.
 
 ---
 
-🔥 *Building practical tech that solves real problems.*
+🔥 *Building scalable systems that solve real-world problems.*
