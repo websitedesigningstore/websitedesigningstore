@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Profile Preview</title>
+<style>
+  :root { --bg: #0d1117; --fg: #e6edf3; --muted: #8b949e; --line: #30363d; }
+  body.light { --bg: #ffffff; --fg: #1f2328; --muted: #59636e; --line: #d1d9e0; }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--fg); font: 15px/1.5 system-ui, sans-serif; }
+  header { position: sticky; top: 0; display: flex; gap: 8px; flex-wrap: wrap; align-items: center;
+           padding: 12px 16px; background: var(--bg); border-bottom: 1px solid var(--line); z-index: 1; }
+  header b { margin-right: auto; }
+  button { font: inherit; padding: 6px 12px; border: 1px solid var(--line); border-radius: 6px;
+           background: transparent; color: var(--fg); cursor: pointer; }
+  button[aria-pressed="true"] { background: #247bff; border-color: #247bff; color: #fff; }
+  main { margin: 0 auto; padding: 16px; max-width: 862px; }
+  main.mobile { max-width: 392px; }
+  img { display: block; width: 100%; height: auto; margin: 0 0 16px; }
+  p { color: var(--muted); }
+</style>
+</head>
+<body>
+<header>
+  <b>GitHub profile preview</b>
+  <button data-w="desktop" aria-pressed="true">Desktop 830px</button>
+  <button data-w="mobile" aria-pressed="false">Mobile 360px</button>
+  <button id="theme" aria-pressed="false">Light background</button>
+</header>
+<main id="m">
+  <img src="assets/hero.svg?v=1" alt="Intro">
+  <img src="assets/about-life.svg?v=1" alt="About">
+  <img src="assets/stack.svg?v=1" alt="Stack">
+  <img src="assets/id-dashboard.svg?v=1" alt="ID">
+  <img src="assets/connect.svg?v=1" alt="Connect">
+  <p>Each image is loaded through an &lt;img&gt; element, the same way GitHub shows it. Links inside the SVGs are not clickable there, so the README lists them below the connect image.</p>
+</main>
+<script>
+  const m = document.getElementById('m');
+  document.querySelectorAll('[data-w]').forEach(b => b.onclick = () => {
+    m.className = b.dataset.w === 'mobile' ? 'mobile' : '';
+    document.querySelectorAll('[data-w]').forEach(x => x.setAttribute('aria-pressed', x === b));
+  });
+  const t = document.getElementById('theme');
+  t.onclick = () => t.setAttribute('aria-pressed', document.body.classList.toggle('light'));
+</script>
+</body>
+</html>

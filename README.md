@@ -1,116 +1,35 @@
-# 👋 Hi, I'm Abhishek Kumar  
+![Intro — Abhishek Kumar, Web Developer · IoT & Smart Hardware · Center Head @ Globalwebify](./assets/hero.svg?v=1)
 
-🚀 Building Real-World SaaS, IoT & Developer Tools  
-💡 Turning Ideas into Scalable Products Used by Real Users  
+![About — web & SaaS platforms, IoT & smart hardware, browser & developer tools, IT operations](./assets/about-life.svg?v=1)
 
----
+![Stack — C, C++, PHP, Python, JavaScript, TypeScript, React, MySQL, ESP32, MQTT, Android, Kotlin, Java](./assets/stack.svg?v=1)
 
-## 🌟 About Me
+![ID — Chrome Profile Lock 3,000 users, 4.2 rating; Multi Folder Workspace Opener 948 Open VSX downloads; 5 Android apps](./assets/id-dashboard.svg?v=1)
 
-- 🚀 I build production-ready SaaS and CRM systems used in real-world scenarios  
-- 🔌 Developing IoT platforms using ESP32 (MQTT, OTA, Audio APIs)  
-- 📱 Creator of apps, Chrome extensions & developer tools used by 1000+ users  
-- 🧠 Focused on performance, scalability, and solving real problems  
+## Projects
 
----
+| Project | What it is | Links |
+| --- | --- | --- |
+| **The News MPCG** · _latest_ | Hindi news portal for Madhya Pradesh & Chhattisgarh | [thenewsmpcg.com](https://thenewsmpcg.com) |
+| **Chrome Profile Lock (Secure)** | PIN-protected Chrome profiles with auto-lock and startup lock · 3,000 users | [Chrome Web Store](https://chromewebstore.google.com/detail/chrome-profile-lock-secur/pkoepiofdiclgmbjachbkbdcfkjbadle) |
+| **Multi Folder Workspace Opener** | VS Code extension that opens many folders as one multi-root workspace | [Marketplace](https://marketplace.visualstudio.com/items?itemName=GlobalWebify.multi-folder-workspace-opener) · [Open VSX](https://open-vsx.org/extension/websitedesigningstore/multi-folder-workspace-opener) · [Code](https://github.com/websitedesigningstore/multi-folder-workspace-opener) |
+| **ESP-IQ — Smart Hardware Controller** | Full-stack IoT platform for ESP32: real-time LED control, Bluetooth speaker management, OTA updates, sync groups | — |
+| **ESP32 Digital Hourglass** | Physics-simulated sand on dual MAX7219 matrices, GY-61 flip detection, React remote over WebSocket | — |
+| **LeadSync Pro CRM** | SaaS CRM built with core PHP, MySQL and JavaScript | [Code](https://github.com/websitedesigningstore/leadsyncpro) |
+| **Cube** | 3D voxel builder with hand tracking, mouse interaction and WebXR AR | [Live](https://cube-rosy-phi.vercel.app) · [Code](https://github.com/websitedesigningstore/Cube) |
+| **Android apps** | 5 apps on Google Play as Global Webify, including Champions Books | [Google Play](https://play.google.com/store/apps/dev?id=4988949431607196044) |
+| **Web platforms** | Book store, e-commerce and story platforms | [championsbooks.shop](https://www.championsbooks.shop/) · [meerakart.com](https://www.meerakart.com/) · [mydaystory.in](https://www.mydaystory.in/) |
 
-## 🚀 Live Products & Projects
+![Connect — GitHub, The News MPCG, Google Play, Chrome Web Store, VS Code Marketplace, website](./assets/connect.svg?v=1)
 
-### 🌐 Web Platforms
-- 🔗 https://www.mydaystory.in/ → Story-based digital experience platform  
-- 🔗 https://www.championsbooks.shop/ → Online book store system  
-- 🔗 https://www.meerakart.com/ → E-commerce platform  
+<p align="center">
+  <a href="https://github.com/websitedesigningstore"><b>GitHub</b></a> ·
+  <a href="https://thenewsmpcg.com"><b>The News MPCG</b></a> ·
+  <a href="https://play.google.com/store/apps/dev?id=4988949431607196044"><b>Google Play</b></a> ·
+  <a href="https://chromewebstore.google.com/detail/chrome-profile-lock-secur/pkoepiofdiclgmbjachbkbdcfkjbadle"><b>Chrome Web Store</b></a> ·
+  <a href="https://marketplace.visualstudio.com/items?itemName=GlobalWebify.multi-folder-workspace-opener"><b>VS Code Marketplace</b></a> ·
+  <a href="https://open-vsx.org/extension/websitedesigningstore/multi-folder-workspace-opener"><b>Open VSX</b></a> ·
+  <a href="https://www.mydaystory.in/"><b>Website</b></a>
+</p>
 
-### 📱 Mobile App
-- 📲 ChampionsBooks App (Play Store)  
-  https://play.google.com/store/apps/details?id=com.championsbooks.app  
-
-### 🔐 Chrome Extension
-- 🔒 Chrome Profile Lock (1,000+ users)  
-  → Secure Chrome profiles with PIN protection  
-
-### 🧩 Developer Tools
-- ⚡ Multi Folder Workspace Opener (VS Code Extension – 400+ downloads)  
-  → Open multiple folders in one workspace instantly  
-
----
-
-## 🧠 What I Build
-
-- SaaS Platforms (Multi-tenant systems, CRM, dashboards)  
-- Developer Tools (VS Code extensions, automation tools)  
-- Chrome Extensions (Security & productivity tools)  
-- IoT Systems (ESP32, MQTT, OTA, real-time control)  
-- Full-stack Web Applications (Scalable & production-ready)  
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Backend
-PHP • MySQL • REST APIs  
-
-### 🌐 Frontend
-HTML • CSS • JavaScript • TypeScript  
-
-### 📱 App Development
-Android (Java/Kotlin) • WebView Apps  
-
-### 🔌 IoT & Hardware
-ESP32 • MQTT • OTA Updates • Audio Systems  
-
-### ⚙️ Tools & Platforms
-GitHub • VS Code • Chrome Extensions • Open VSX  
-
----
-
-## 📦 Featured Projects
-
-### 🔹 LeadSync Pro CRM
-- Full-featured lead management system  
-- Automation, reporting, and client tracking  
-- Built with scalable SaaS architecture  
-
-### 🔹 Chrome Profile Lock
-- 1,000+ active users  
-- Secure Chrome profile with PIN lock  
-- Lightweight and fast extension  
-
-### 🔹 Multi Folder Workspace Opener
-- VS Code extension  
-- Boosts developer productivity  
-- Simplifies multi-project workflow  
-
-### 🔹 Cube (3D Web App)
-- Web-based voxel builder  
-- Supports WebXR & interaction controls  
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=websitedesigningstore&show_icons=true&theme=tokyonight&count_private=true)
-
----
-
-## 🔥 Contribution Activity
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=websitedesigningstore&theme=react-dark)
-
----
-
-## 🤝 Connect With Me
-
-- 🌐 Website: https://www.mydaystory.in/  
-- 💼 GitHub: https://github.com/websitedesigningstore  
-
----
-
-## ⭐ Support My Work
-
-If you find my work useful, consider giving a ⭐ to my repositories.  
-Your support helps me build more powerful tools.
-
----
-
-🔥 Building scalable systems that solve real-world problems.
+<sub>Metrics are from the Chrome Web Store, Open VSX, VS Code Marketplace, Google Play and the GitHub API, checked 06 Oct 2026. Fonts: Barlow, Barlow Condensed and JetBrains Mono (SIL OFL 1.1). Brand icons: Simple Icons (CC0). See <a href="./assets/licenses/">assets/licenses</a>.</sub>
