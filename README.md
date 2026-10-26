@@ -12,7 +12,7 @@
 | --- | --- | --- |
 | **The News MPCG** · _latest_ | Hindi news portal for Madhya Pradesh & Chhattisgarh | [thenewsmpcg.com](https://thenewsmpcg.com) |
 | **Chrome Profile Lock (Secure)** | PIN-protected Chrome profiles with auto-lock and startup lock · 3,000 users | [Chrome Web Store](https://chromewebstore.google.com/detail/chrome-profile-lock-secur/pkoepiofdiclgmbjachbkbdcfkjbadle) |
-| **Multi Folder Workspace Opener** | VS Code extension that opens many folders as one multi-root workspace | [Marketplace](https://marketplace.visualstudio.com/items?itemName=GlobalWebify.multi-folder-workspace-opener) · [Open VSX](https://open-vsx.org/extension/websitedesigningstore/multi-folder-workspace-opener) · [Code](https://github.com/websitedesigningstore/multi-folder-workspace-opener) |
+| **Multi Folder Workspace Opener** | VS Code extension that opens many folders as one multi-root workspace | [Marketplace](https://marketplace.visualstudio.com/items?itemName=websitedesigningstore.multi-folder-workspace-manager) · [Open VSX](https://open-vsx.org/extension/websitedesigningstore/multi-folder-workspace-opener) · [Code](https://github.com/websitedesigningstore/multi-folder-workspace-opener) |
 | **ESP-IQ — Smart Hardware Controller** | Full-stack IoT platform for ESP32: real-time LED control, Bluetooth speaker management, OTA updates, sync groups | — |
 | **ESP32 Digital Hourglass** | Physics-simulated sand on dual MAX7219 matrices, GY-61 flip detection, React remote over WebSocket | — |
 | **LeadSync Pro CRM** | SaaS CRM built with core PHP, MySQL and JavaScript | [Code](https://github.com/websitedesigningstore/leadsyncpro) |
